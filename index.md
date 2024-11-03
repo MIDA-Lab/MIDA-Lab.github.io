@@ -26,7 +26,7 @@ Generalizable AI, Interpretable AI
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/trustworthy-ai.jpg"
   link="research"
   title="Trustworthy AI"
   text=text
@@ -53,7 +53,7 @@ Robust and Safe AI: Attack on AI, and Defense
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/robust-ai.jpg"
   link="projects"
   title="Robust and Safe AI"
   flip=true
@@ -82,7 +82,7 @@ Generative AI: Generative adversarial Networks, Diffusion models
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/gen-ai.webp"
   link="team"
   title="Generative AI"
   text=text
@@ -109,7 +109,7 @@ MedAI: CAD for for cancer early detection, Benchmark dataset, Histopathology ima
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/med-ai.jpeg"
   link="team"
   title="MedAI"
   flip=true
@@ -137,7 +137,7 @@ Large Language Models(LLMs): multi-modal LLMs, causality discovery, text classif
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/llm.webp"
   link="team"
   title="Large Language Models(LLMs)"
   text=text
@@ -164,7 +164,7 @@ MS-AI: image segmentation, data generation, ROI generation, Image Labeling
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ai-tools.jpg"
   link="team"
   title="MS-AI"
   flip=true
