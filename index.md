@@ -7,11 +7,11 @@ We are transforming the world by developing groundbreaking AI/ML methodologies t
 
 {% include section.html %}
 
-## Highlights
+## Our Research
 
 {% capture text %}
 
-Trustworthy AI: Generalizable AI, Interpretable AI
+Generalizable AI, Interpretable AI
 
 {%
   include button.html
@@ -28,9 +28,13 @@ Trustworthy AI: Generalizable AI, Interpretable AI
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Trustworthy AI"
   text=text
 %}
+
+
+
+
 
 {% capture text %}
 
@@ -51,11 +55,15 @@ Robust and Safe AI: Attack on AI, and Defense
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Robust and Safe AI"
   flip=true
   style="bare"
   text=text
 %}
+
+
+
+
 
 {% capture text %}
 
@@ -76,9 +84,13 @@ Generative AI: Generative adversarial Networks, Diffusion models
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Generative AI"
   text=text
 %}
+
+
+
+
 
 {% capture text %}
 
@@ -99,13 +111,18 @@ MedAI: CAD for for cancer early detection, Benchmark dataset, Histopathology ima
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="MedAI"
+  flip=true
   text=text
 %}
 
+
+
+
+
 {% capture text %}
 
-5 Large Language Models(LLMs): multi-modal LLMs, causality discovery, text classification
+Large Language Models(LLMs): multi-modal LLMs, causality discovery, text classification
 
 {%
   include button.html
@@ -122,9 +139,13 @@ MedAI: CAD for for cancer early detection, Benchmark dataset, Histopathology ima
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Large Language Models(LLMs)"
   text=text
 %}
+
+
+
+
 
 {% capture text %}
 
@@ -145,6 +166,7 @@ MS-AI: image segmentation, data generation, ROI generation, Image Labeling
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="MS-AI"
+  flip=true
   text=text
 %}
