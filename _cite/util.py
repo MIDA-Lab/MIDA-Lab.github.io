@@ -184,7 +184,9 @@ def cite_with_manubot(_id):
 
     # parse results as json
     try:
-        manubot = json.loads(output[0])[0]
+        manubot = json.loads(output[0])
+        if len(manubot) == 0:
+            manubot = {}
     except Exception:
         raise Exception("Couldn't parse Manubot response")
 
