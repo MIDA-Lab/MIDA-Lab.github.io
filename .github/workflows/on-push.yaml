@@ -13,9 +13,6 @@ permissions:
   contents: write
   pull-requests: write
 
-env:
-  GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
-
 jobs:
   update-citations:
     # skip first run because nothing enabled or setup yet
