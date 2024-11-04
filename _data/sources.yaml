@@ -13,8 +13,8 @@
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:Tyk-4Ss8FVUC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:M3ejUd6NZC8C
   title: A Deep Learning Framework for Assessing Physical Rehabilitation Exercises
   authors:
@@ -25,8 +25,8 @@
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:M3ejUd6NZC8C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:9ZlFYXVOiuMC
   title: Attention Enriched Deep Learning Model for Breast Tumor Segmentation in Ultrasound
     Images
@@ -38,8 +38,8 @@
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:9ZlFYXVOiuMC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:YsMSGLbcyi4C
   title: Fully automatic segmentation of breast ultrasound images based on breast
     characteristics in space and frequency domains
@@ -51,8 +51,8 @@
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:YsMSGLbcyi4C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:5nxA0vEk-isC
   title: 'BUSIS: A Benchmark for Breast Ultrasound Image Segmentation'
   authors:
@@ -69,8 +69,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:5nxA0vEk-isC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:ZeXyd9-uunAC
   title: A review of computational approaches for evaluation of rehabilitation exercises
   authors:
@@ -83,8 +83,8 @@
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:ZeXyd9-uunAC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:7PzlFSSx8tAC
   title: 'STAN: Small tumor-aware network for breast ultrasound image segmentation'
   authors:
@@ -95,8 +95,8 @@
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:7PzlFSSx8tAC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:-f6ydRqryjwC
   title: 'SMOTE-WENN: Solving class imbalance and small sample problems by oversampling
     and distance scaling'
@@ -110,8 +110,8 @@
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:-f6ydRqryjwC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:aqlVkmm33-oC
   title: Imputation of single-cell gene expression with an autoencoder neural network
   authors:
@@ -126,8 +126,8 @@
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:aqlVkmm33-oC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:Se3iqnhoufwC
   title: 'Loosecut: Interactive image segmentation with loosely bounded boxes'
   authors:
@@ -141,8 +141,8 @@
   date: '2017-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:Se3iqnhoufwC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:hMod-77fHWUC
   title: 'ESTAN: Enhanced small tumor-aware network for breast ultrasound image segmentation'
   authors:
@@ -154,8 +154,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:hMod-77fHWUC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:blknAaTinKkC
   title: 'Cmu-net: a strong convmixer-based medical ultrasound image segmentation
     network'
@@ -170,8 +170,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:blknAaTinKkC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:ufrVoPGSRksC
   title: A saliency model for automated tumor detection in breast ultrasound images
   authors:
@@ -186,8 +186,8 @@
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:ufrVoPGSRksC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:UeHWp8X0CEIC
   title: Neutro-connectedness cut
   authors:
@@ -200,8 +200,8 @@
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:UeHWp8X0CEIC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:L8Ckcad2t8MC
   title: Bending loss regularized network for nuclei segmentation in histopathology
     images
@@ -214,8 +214,8 @@
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:L8Ckcad2t8MC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:_FxGoFyzp5QC
   title: Multiple-domain knowledge based MRF model for tumor segmentation in breast
     ultrasound images
@@ -229,8 +229,8 @@
   date: '2012-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:_FxGoFyzp5QC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:2osOgNQ5qMEC
   title: A fully automatic breast ultrasound image segmentation approach based on
     neutro-connectedness
@@ -243,8 +243,8 @@
   date: '2014-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:2osOgNQ5qMEC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:4DMP91E08xMC
   title: Workload-aware task placement in edge-assisted human re-identification
   authors:
@@ -258,8 +258,8 @@
   date: '2019-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:4DMP91E08xMC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:eQOLeE2rZwMC
   title: Local-weighted Citation-kNN algorithm for breast ultrasound image classification
   authors:
@@ -272,8 +272,8 @@
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:eQOLeE2rZwMC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:9yKSN-GCB0IC
   title: Unsupervised co-segmentation based on a new global gmm constraint in mrf
   authors:
@@ -285,8 +285,8 @@
   date: '2014-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:9yKSN-GCB0IC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:r0BpntZqJG4C
   title: 'TA-Net: Topology-Aware Network for Gland Segmentation'
   authors:
@@ -297,8 +297,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:r0BpntZqJG4C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:j3f4tGmQtD8C
   title: 'Sharp-GAN: Sharpness Loss Regularized GAN for Histopathology Image Synthesis'
   authors:
@@ -310,8 +310,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:j3f4tGmQtD8C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:R3hNpaxXUhUC
   title: Understanding Fission Gas Bubble Distribution, Lanthanide Transportation,
     and Thermal Conductivity Degradation in Neutron-irradiated {\alpha}-U Using Machine
@@ -329,8 +329,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:R3hNpaxXUhUC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:4JMBOYKVnBMC
   title: 'BI-RADS-Net: An Explainable Multitask Learning Approach for Cancer Diagnosis
     in Breast Ultrasound Images'
@@ -342,8 +342,8 @@
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:4JMBOYKVnBMC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:e5wmG9Sq2KIC
   title: Application and evaluation of a deep learning architecture to urban tree
     canopy mapping
@@ -355,8 +355,8 @@
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:e5wmG9Sq2KIC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:IjCSPb-OGe4C
   title: 'EISeg: Effective interactive segmentation'
   authors:
@@ -370,11 +370,12 @@
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:IjCSPb-OGe4C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:GnPB-g6toBAC
   title: 'CFR-ICL: Cascade-Forward Refinement with Iterative Click Loss for Interactive
     Image Segmentation'
+  image: images/publications/cfr-icl.png
   authors:
   - S Sun
   - M Xian
@@ -384,10 +385,9 @@
   publisher: AAAI 24, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:GnPB-g6toBAC
-  image: images/publications/cfr-icl.png
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:bEWYMUwI8FkC
   title: 'EMT-Net: Efficient multitask network for computer-aided diagnosis of breast
     cancer'
@@ -401,8 +401,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:bEWYMUwI8FkC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:8k81kl-MbHgC
   title: Computer-aided knee joint magnetic resonance image segmentation-a survey
   authors:
@@ -417,8 +417,8 @@
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:8k81kl-MbHgC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:O3NaXMp0MMsC
   title: Multi-level global context cross consistency model for semi-supervised ultrasound
     image segmentation with diffusion model
@@ -432,8 +432,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:O3NaXMp0MMsC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:HDshCWvjkbEC
   title: 'Multi-Slice Low-Rank Tensor Decomposition Based Multi-Atlas Segmentation:
     Application to Automatic Pathological Liver CT Segmentation'
@@ -447,8 +447,8 @@
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:HDshCWvjkbEC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:70eg2SAEIzsC
   title: Exploring advanced computational tools and techniques with artificial intelligence
     and machine learning in operating nuclear plants
@@ -462,8 +462,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:70eg2SAEIzsC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:kNdYIx-mwKoC
   title: Watermark Embedding for Direct Binary Searched Halftone Images by Adopting
     Visual Cryptography
@@ -476,8 +476,8 @@
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:kNdYIx-mwKoC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:_kc_bZDykSQC
   title: Tumor Saliency Estimation for Breast Ultrasound Images via Breast Anatomy
     Modeling
@@ -494,8 +494,8 @@
   date: '2019-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:_kc_bZDykSQC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:pqnbT2bcN3wC
   title: Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework
   authors:
@@ -509,8 +509,8 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:pqnbT2bcN3wC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:M3NEmzRMIkIC
   title: 'SIAN: style-guided instance-adaptive normalization for multi-organ histopathology
     image synthesis'
@@ -524,8 +524,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:M3NEmzRMIkIC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:qxL8FJ1GzNcC
   title: Cyber-Physical Control and Optimization for Biofuel 4.0
   authors:
@@ -536,8 +536,8 @@
   date: '2019-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:qxL8FJ1GzNcC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:RYcK_YlVTxYC
   title: Post-Hoc Explainability of BI-RADS Descriptors in a Multi-task Framework
     for Breast Cancer Detection and Segmentation
@@ -550,8 +550,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:RYcK_YlVTxYC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:J_g5lzvAfSwC
   title: Breast Ultrasound Tumor Classification Using a Hybrid Multitask CNN-Transformer
     Network
@@ -564,8 +564,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:J_g5lzvAfSwC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:NaGl4SEjCO4C
   title: 'BI-RADS-NET-V2: A Composite Multi-Task Neural Network for Computer-Aided
     Diagnosis of Breast Cancer in Ultrasound Images With Semantic and Quantitative
@@ -578,8 +578,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:NaGl4SEjCO4C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:YFjsv_pBGBYC
   title: A Benchmark for Breast Ultrasound Image Classification
   authors:
@@ -594,8 +594,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:YFjsv_pBGBYC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:vV6vV6tmYwMC
   title: Uncertainty quantification in multivariable regression for material property
     prediction with Bayesian neural networks
@@ -610,8 +610,8 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:vV6vV6tmYwMC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:RHpTSmoSYBkC
   title: Evaluation of Complexity Measures for Deep Learning Generalization in Medical
     Image Analysis
@@ -622,8 +622,8 @@
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:RHpTSmoSYBkC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:roLk4NBRz8UC
   title: Unsupervised saliency estimation based on robust hypotheses
   authors:
@@ -637,8 +637,8 @@
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:roLk4NBRz8UC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:iH-uZ7U-co4C
   title: On the limits of em based detection of control logic injection attacks in
     noisy environments
@@ -653,8 +653,8 @@
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:iH-uZ7U-co4C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:MXK_kJrjxJIC
   title: A Novel Hybrid Framework for Tumor Saliency Estimation
   authors:
@@ -671,8 +671,8 @@
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:MXK_kJrjxJIC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:ULOm3_A8WrAC
   title: 'BA2Cs: Bounded abstaining with two constraints of reject rates in binary
     classification'
@@ -686,8 +686,8 @@
   date: '2019-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:ULOm3_A8WrAC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:YOwf2qJgpHMC
   title: Optimal Scheduling of Electrolyzer in Power Market with Dynamic Prices
   authors:
@@ -698,8 +698,8 @@
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:YOwf2qJgpHMC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:NMxIlDl6LWMC
   title: Enhanced Sharp-GAN For Histopathology Image Synthesis
   authors:
@@ -712,11 +712,12 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:NMxIlDl6LWMC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:isC4tDSrTZIC
   title: 'MIRST-DM: Multi-Instance RST with Drop-Max Layer for Robust Classification
     of Breast Cancer'
+  image: images/publications/mirst-dm.png
   authors:
   - S Sun
   - M Xian
@@ -725,10 +726,9 @@
   publisher: MICCAI 2022, 2022
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:isC4tDSrTZIC
-  image: images/publications/mirst-dm.png
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:Y0pCki6q_DkC
   title: Neutro-Connectedness Theory, Algorithms and Applications
   authors:
@@ -737,8 +737,8 @@
   date: '2017-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:Y0pCki6q_DkC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:W7OEmFMy1HYC
   title: WENN for individualized cleaning in imbalanced data
   authors:
@@ -752,8 +752,8 @@
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:W7OEmFMy1HYC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:zYLM7Y9cAGgC
   title: Breast Ultrasound Image Co-segmentation by Means of Multiple-domain Knowledge
   authors:
@@ -763,8 +763,8 @@
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:zYLM7Y9cAGgC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:qjMakFHDy7sC
   title: Robust multiple cue fusion-based high-speed and nonrigid object tracking
     algorithm for short track speed skating
@@ -778,8 +778,8 @@
   date: '2016-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:qjMakFHDy7sC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:_Qo2XoVZTnwC
   title: 'Bend-Net: bending loss regularized multitask learning network for nuclei
     segmentation in histopathology images'
@@ -792,8 +792,8 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:_Qo2XoVZTnwC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:maZDTaKrznsC
   title: Understanding fission gas bubble distribution and zirconium redistribution
     in neutron-irradiated U-Zr metallic fuel using machine learning
@@ -810,8 +810,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:maZDTaKrznsC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:WF5omc3nYNoC
   title: An algorithm based on LBPV and MIL for left atrial thrombi detection using
     transesophageal echocardiography
@@ -826,8 +826,8 @@
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:WF5omc3nYNoC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:mVmsd5A6BfQC
   title: "\u4E73\u817A\u8D85\u58F0\u56FE\u50CF\u80BF\u7624\u5168\u81EA\u52A8\u5B9A\
     \u4F4D\u65B9\u6CD5\u7814\u7A76"
@@ -838,8 +838,8 @@
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:mVmsd5A6BfQC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:g5m5HwL7SMYC
   title: 'A2DMN: Anatomy-Aware Dilated Multiscale Network for Breast Ultrasound Semantic
     Segmentation'
@@ -851,8 +851,8 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:g5m5HwL7SMYC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:RGFaLdJalmkC
   title: A Fine Pore-preserved Deep Neural Network for Porosity Analytics of a High
     Burnup U-10Zr Metallic Fuel
@@ -869,8 +869,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:RGFaLdJalmkC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:ns9cj8rnVeAC
   title: An Efficient Instance Segmentation Approach for Studying Fission Gas Bubbles
     in Irradiated Metallic Nuclear Fuel
@@ -886,8 +886,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:ns9cj8rnVeAC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:SeFeTyx0c_EC
   title: 'Natural Language Processing-Enhanced Nuclear Industry Operating Experience
     Data Analysis: Aggregation and Interpretation of Multi-Report Analysis Results'
@@ -900,8 +900,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:SeFeTyx0c_EC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:ZHo1McVdvXMC
   title: A New Approach to Identify and Characterize Low-Power Shutdown Initiating
     Events Using Machine Learning Techniques
@@ -914,8 +914,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:ZHo1McVdvXMC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:2P1L_qKh6hAC
   title: 'SepNet: A neural network for directionally correlated data'
   authors:
@@ -927,8 +927,8 @@
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:2P1L_qKh6hAC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:Zph67rFs4hoC
   title: Texture analysis and imbalanced data processing for papillary thyroid microcarcinoma
     detection
@@ -944,8 +944,8 @@
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:Zph67rFs4hoC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:fPk4N6BV_jEC
   title: A Knowledge-Informed Large Language Model Framework for US Nuclear Power
     Plant Shutdown Initiating Event Classification for Probabilistic Risk Assessment
@@ -959,8 +959,8 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:fPk4N6BV_jEC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:zA6iFVUQeVQC
   title: Segmentation and Classification of Fission as Pores in Reactor Iirradiated
     Annular Usingle bond10Zr Metallic Fuel Using Machine Learning Models
@@ -977,8 +977,8 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:zA6iFVUQeVQC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:rO6llkc54NcC
   title: Semantic-Aware Adaptive Binary Search for Hard-Label Black-Box Attack
   authors:
@@ -990,8 +990,8 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:rO6llkc54NcC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:M05iB0D1s5AC
   title: Segmentation and classification of fission gas pores in reactor irradiated
     annular U10Zr metallic fuel using machine learning models
@@ -1008,8 +1008,8 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:M05iB0D1s5AC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:3s1wT3WcHBgC
   title: Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?
   authors:
@@ -1018,8 +1018,8 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:3s1wT3WcHBgC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:u_35RYKgDlwC
   title: A fine pore-preserved deep neural network for porosity analytics of a high
     burnup U-10Zr metallic fuel
@@ -1036,8 +1036,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:u_35RYKgDlwC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:HoB7MX3m0LUC
   title: Applying AI/ML Techniques to US Nuclear Operating Experience Program
   authors:
@@ -1049,8 +1049,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:HoB7MX3m0LUC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:BqipwSGYUEgC
   title: An Efficient Instance Segmentation Approach for Extracting Fission Gas Bubbles
     on U-10Zr Annular Fuel
@@ -1066,8 +1066,8 @@
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:BqipwSGYUEgC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:qUcmZB5y_30C
   title: 'CYBER-PHYSICAL INFRASTRUCTURES FOR ADVANCING PYROLYSIS CONVERSION PROCESS:
     A CASE STUDY OF BIOCHAR PRODUCTION'
@@ -1080,8 +1080,8 @@
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:qUcmZB5y_30C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:UebtZRa9Y70C
   title: An algorithm for Left Atrial Thrombi detection using Transesophageal Echocardiography
   authors:
@@ -1095,8 +1095,8 @@
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:UebtZRa9Y70C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:ldfaerwXgEUC
   title: RESEARCH ARTICLE Imputation of single-cell gene expression with
   authors:
@@ -1111,8 +1111,8 @@
   date: ''
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:ldfaerwXgEUC
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: n87o4MAAAAAJ:35N4QoGY0k4C
   title: 'Imputation of single-cell gene expression with an autoencoder neural network
     Running title: Autoencoder for imputation of single-cell gene expression'
@@ -1128,5 +1128,5 @@
   date: ''
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:35N4QoGY0k4C
   gsid: n87o4MAAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
