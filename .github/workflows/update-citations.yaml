@@ -59,8 +59,7 @@ jobs:
         run: python _cite/cite.py
         timeout-minutes: 15
         env:
-          GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GOOGLE_SCHOLAR_API_KEY: 321
 
       - name: Check if citations changed
         if: github.event.action != 'closed'
