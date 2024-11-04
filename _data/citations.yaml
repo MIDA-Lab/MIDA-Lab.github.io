@@ -15,6 +15,8 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - med-ai
 - id: n87o4MAAAAAJ:M3ejUd6NZC8C
   title: A Deep Learning Framework for Assessing Physical Rehabilitation Exercises
   authors:
@@ -511,6 +513,8 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - llm
 - id: n87o4MAAAAAJ:M3NEmzRMIkIC
   title: 'SIAN: style-guided instance-adaptive normalization for multi-organ histopathology
     image synthesis'
@@ -596,6 +600,8 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - med-ai
 - id: n87o4MAAAAAJ:vV6vV6tmYwMC
   title: Uncertainty quantification in multivariable regression for material property
     prediction with Bayesian neural networks
@@ -729,6 +735,9 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - med-ai
+  - robust-ai
 - id: n87o4MAAAAAJ:Y0pCki6q_DkC
   title: Neutro-Connectedness Theory, Algorithms and Applications
   authors:
@@ -888,6 +897,8 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - ms-ai
 - id: n87o4MAAAAAJ:SeFeTyx0c_EC
   title: 'Natural Language Processing-Enhanced Nuclear Industry Operating Experience
     Data Analysis: Aggregation and Interpretation of Multi-Report Analysis Results'
@@ -979,6 +990,8 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - ms-ai
 - id: n87o4MAAAAAJ:rO6llkc54NcC
   title: Semantic-Aware Adaptive Binary Search for Hard-Label Black-Box Attack
   authors:
@@ -1010,6 +1023,8 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - ms-ai
 - id: n87o4MAAAAAJ:3s1wT3WcHBgC
   title: Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?
   authors:
@@ -1068,6 +1083,8 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - ms-ai
 - id: n87o4MAAAAAJ:qUcmZB5y_30C
   title: 'CYBER-PHYSICAL INFRASTRUCTURES FOR ADVANCING PYROLYSIS CONVERSION PROCESS:
     A CASE STUDY OF BIOCHAR PRODUCTION'

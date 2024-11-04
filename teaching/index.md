@@ -84,3 +84,21 @@ We offer courses in deep learning, machine learning, and data science. Our cours
 **Prerequisites**: Linear algebra, statistics and probability, and CS 120/121
 
 {% include float.html clear=true %}
+
+{% include section.html %}
+
+# Other Courses
+
+- ENGR 212: Python Programming Essentials
+- CS 455/555: Machine Vision
+- CS 470/570: Artificial Intelligence
+- CS 472/572: Evolutionary Computation
+- CS 475/575: Machine Learning
+- CS 487/587: Adversarial Machine Learning
+- CS 488/588: Applied Data Science with Python
+- CS 489/589: Semantic Web and Open Data
+- CS 404/504: Natural Language Processing
+- CS 404/504: AI Data Analysis for Manufacturing, Agriculture, and Energy
+- MATH 483/583: Foundations of Machine Learning
+- STAT 417/517: Statistical Learning and Predictive Modeling
+- PHIL 361: Professional Ethics: Generative AI

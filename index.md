@@ -15,7 +15,7 @@ Generalizable AI, Interpretable AI
 
 {%
   include button.html
-  link="research"
+  link='publications?search="tag: trustworthy-ai"'
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +27,7 @@ Generalizable AI, Interpretable AI
 {%
   include feature.html
   image="images/trustworthy-ai.jpg"
-  link="research"
+  link='publications?search="tag: trustworthy-ai"'
   title="Trustworthy AI"
   text=text
 %}
@@ -42,7 +42,7 @@ Robust and Safe AI: Attack on AI, and Defense
 
 {%
   include button.html
-  link="projects"
+  link='publications?search="tag: robust-ai"'
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -54,7 +54,7 @@ Robust and Safe AI: Attack on AI, and Defense
 {%
   include feature.html
   image="images/robust-ai.jpg"
-  link="projects"
+  link='publications?search="tag: robust-ai"'
   title="Robust and Safe AI"
   flip=true
   style="bare"
@@ -71,8 +71,8 @@ Generative AI: Generative adversarial Networks, Diffusion models
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link='publications?search="tag: gen-ai"'
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -83,7 +83,7 @@ Generative AI: Generative adversarial Networks, Diffusion models
 {%
   include feature.html
   image="images/gen-ai.webp"
-  link="team"
+  link='publications?search="tag: gen-ai"'
   title="Generative AI"
   text=text
 %}
@@ -98,8 +98,8 @@ MedAI: CAD for for cancer early detection, Benchmark dataset, Histopathology ima
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link='publications?search="tag: med-ai"'
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -110,7 +110,7 @@ MedAI: CAD for for cancer early detection, Benchmark dataset, Histopathology ima
 {%
   include feature.html
   image="images/med-ai.jpeg"
-  link="team"
+  link='publications?search="tag: med-ai"'
   title="MedAI"
   flip=true
   text=text
@@ -122,12 +122,12 @@ MedAI: CAD for for cancer early detection, Benchmark dataset, Histopathology ima
 
 {% capture text %}
 
-Large Language Models(LLMs): multi-modal LLMs, causality discovery, text classification
+Large Language Models (LLMs): multi-modal LLMs, causality discovery, text classification
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link='publications?search="tag: llm"'
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -138,8 +138,8 @@ Large Language Models(LLMs): multi-modal LLMs, causality discovery, text classif
 {%
   include feature.html
   image="images/llm.webp"
-  link="team"
-  title="Large Language Models(LLMs)"
+  link='publications?search="tag: llm"'
+  title="Large Language Models (LLMs)"
   text=text
 %}
 
@@ -153,8 +153,8 @@ MS-AI: image segmentation, data generation, ROI generation, Image Labeling
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link='publications?search="tag: ms-ai"'
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -165,7 +165,7 @@ MS-AI: image segmentation, data generation, ROI generation, Image Labeling
 {%
   include feature.html
   image="images/ai-tools.jpg"
-  link="team"
+  link='publications?search="tag: ms-ai"'
   title="MS-AI"
   flip=true
   text=text
