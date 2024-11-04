@@ -60,6 +60,7 @@ jobs:
         timeout-minutes: 15
         env:
           GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GSCHOLAR_TOKEN }}
+          GTOKEN: ${{ secrets.GTOKEN }}
 
       - name: Check if citations changed
         if: github.event.action != 'closed'
