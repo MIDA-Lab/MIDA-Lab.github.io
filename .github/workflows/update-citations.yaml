@@ -20,12 +20,12 @@ permissions:
 
 env:
   FORCE_COLOR: true
+  GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GOOGLE_SCHOLAR_API_KEY }}
 
 jobs:
   update-citations:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    environment: github-pages
     steps:
       - name: Debug dump
         uses: crazy-max/ghaction-dump-context@v2
@@ -58,9 +58,6 @@ jobs:
         if: github.event.action != 'closed'
         run: python _cite/cite.py
         timeout-minutes: 15
-        env:
-          GOOGLE_SCHOLAR_API_KEY: ${{ secrets.GSCHOLAR_TOKEN }}
-          GTOKEN: ${{ secrets.GTOKEN }}
 
       - name: Check if citations changed
         if: github.event.action != 'closed'
