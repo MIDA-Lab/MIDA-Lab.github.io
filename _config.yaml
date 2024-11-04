@@ -9,11 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: mxian@uidaho.edu
-  orcid: 0000-0001-8713-9213
   google-scholar: n87o4MAAAAAJ
   github: MIDA-Lab
-  twitter: MIDA-Lab
-  youtube: MIDA-Lab
 
 ### jekyll settings
 

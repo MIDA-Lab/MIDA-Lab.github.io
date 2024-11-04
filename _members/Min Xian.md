@@ -3,5 +3,8 @@ name: Min Xian
 image: images/min-xian.jpg
 role: assoc
 links:
-  home-page: https://scholar.google.com/citations?user=n87o4MAAAAAJ&hl=en
+  home-page: https://www.uidaho.edu/engr/our-people/min-xian
+  email: mxian@uidaho.edu
+aliases:
+  - M Xian
 ---
