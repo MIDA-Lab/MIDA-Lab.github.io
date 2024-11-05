@@ -17,6 +17,9 @@
   file: sources.yaml
   tags:
   - med-ai
+  - segmentation
+  - cancer
+  - ultrasound
 - id: n87o4MAAAAAJ:M3ejUd6NZC8C
   title: A Deep Learning Framework for Assessing Physical Rehabilitation Exercises
   authors:
@@ -29,6 +32,9 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - med-ai
+  - rehabilitation
 - id: n87o4MAAAAAJ:9ZlFYXVOiuMC
   title: Attention Enriched Deep Learning Model for Breast Tumor Segmentation in Ultrasound
     Images
@@ -42,6 +48,11 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - med-ai
+  - segmentation
+  - cancer
+  - ultrasound
 - id: n87o4MAAAAAJ:YsMSGLbcyi4C
   title: Fully automatic segmentation of breast ultrasound images based on breast
     characteristics in space and frequency domains
@@ -55,6 +66,11 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - med-ai
+  - segmentation
+  - cancer
+  - ultrasound
 - id: n87o4MAAAAAJ:5nxA0vEk-isC
   title: 'BUSIS: A Benchmark for Breast Ultrasound Image Segmentation'
   authors:
@@ -73,6 +89,12 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - med-ai
+  - segmentation
+  - cancer
+  - ultrasound
+  - dataset
 - id: n87o4MAAAAAJ:ZeXyd9-uunAC
   title: A review of computational approaches for evaluation of rehabilitation exercises
   authors:
