@@ -17,9 +17,6 @@
   file: sources.yaml
   tags:
   - med-ai
-  - segmentation
-  - ultrasound
-  - cancer
 - id: n87o4MAAAAAJ:M3ejUd6NZC8C
   title: A Deep Learning Framework for Assessing Physical Rehabilitation Exercises
   authors:
@@ -32,9 +29,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - rehabilitation
 - id: n87o4MAAAAAJ:9ZlFYXVOiuMC
   title: Attention Enriched Deep Learning Model for Breast Tumor Segmentation in Ultrasound
     Images
@@ -48,11 +42,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - ultrasound
-  - cancer
 - id: n87o4MAAAAAJ:YsMSGLbcyi4C
   title: Fully automatic segmentation of breast ultrasound images based on breast
     characteristics in space and frequency domains
@@ -66,11 +55,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - ultrasound
-  - cancer
 - id: n87o4MAAAAAJ:5nxA0vEk-isC
   title: 'BUSIS: A Benchmark for Breast Ultrasound Image Segmentation'
   authors:
@@ -89,12 +73,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - ultrasound
-  - cancer
-  - dataset
 - id: n87o4MAAAAAJ:ZeXyd9-uunAC
   title: A review of computational approaches for evaluation of rehabilitation exercises
   authors:
@@ -109,10 +87,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - dataset
 - id: n87o4MAAAAAJ:7PzlFSSx8tAC
   title: 'STAN: Small tumor-aware network for breast ultrasound image segmentation'
   authors:
@@ -125,11 +99,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - ultrasound
-  - cancer
 - id: n87o4MAAAAAJ:-f6ydRqryjwC
   title: 'SMOTE-WENN: Solving class imbalance and small sample problems by oversampling
     and distance scaling'
@@ -161,10 +130,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - imputation
-  - bioinformatics
 - id: n87o4MAAAAAJ:Se3iqnhoufwC
   title: 'Loosecut: Interactive image segmentation with loosely bounded boxes'
   authors:
@@ -180,8 +145,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - segmentation
 - id: n87o4MAAAAAJ:hMod-77fHWUC
   title: 'ESTAN: Enhanced small tumor-aware network for breast ultrasound image segmentation'
   authors:
@@ -195,11 +158,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - ultrasound
-  - cancer
 - id: n87o4MAAAAAJ:blknAaTinKkC
   title: 'Cmu-net: a strong convmixer-based medical ultrasound image segmentation
     network'
@@ -232,11 +190,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - ultrasound
-  - cancer
 - id: n87o4MAAAAAJ:UeHWp8X0CEIC
   title: Neutro-connectedness cut
   authors:
@@ -251,8 +204,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - segmentation
 - id: n87o4MAAAAAJ:L8Ckcad2t8MC
   title: Bending loss regularized network for nuclei segmentation in histopathology
     images
@@ -267,11 +218,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - histopathology
-  - cancer
 - id: n87o4MAAAAAJ:_FxGoFyzp5QC
   title: Multiple-domain knowledge based MRF model for tumor segmentation in breast
     ultrasound images
@@ -287,11 +233,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - ultrasound
-  - cancer
 - id: n87o4MAAAAAJ:2osOgNQ5qMEC
   title: A fully automatic breast ultrasound image segmentation approach based on
     neutro-connectedness
@@ -306,11 +247,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - med-ai
-  - segmentation
-  - ultrasound
-  - cancer
 - id: n87o4MAAAAAJ:4DMP91E08xMC
   title: Workload-aware task placement in edge-assisted human re-identification
   authors:
@@ -326,9 +262,6 @@
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - computer vision
-  - re-identification
 - id: n87o4MAAAAAJ:eQOLeE2rZwMC
   title: Local-weighted Citation-kNN algorithm for breast ultrasound image classification
   authors:
