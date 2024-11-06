@@ -1,9 +1,9 @@
 ---
 ---
 
-# MIDA-Lab's Website
+# MIDA-Lab
 
-We are transforming the world by developing groundbreaking AI/ML methodologies that enable future dependable, trustworthy, ethical, and efficient machine intelligence. 
+Greetings from MIDA Lab! We are a research lab at the University of Idaho focusing on AI/ML research and education. We are transforming the world by developing groundbreaking AI/ML methodologies that enable future dependable, trustworthy, ethical, and efficient machine intelligence. Join us to shape the future of AI.
 
 {% include section.html %}
 
