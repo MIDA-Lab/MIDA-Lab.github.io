@@ -3,7 +3,7 @@
 
 # MIDA-Lab
 
-Greetings from MIDA Lab! We are a research lab at the University of Idaho focusing on AI/ML research and education. Members of the lab are doing amazing and high-impact research and are transforming the world by developing groundbreaking AI/ML methodologies that will enable future dependable, trustworthy, ethical, and efficient machine intelligence. Join us to shape the future of AI.
+Greetings from MIDA Lab! We are a research lab at the University of Idaho focusing on AI/ML research and education. Members of the lab are doing amazing and high-impact research and transforming the world by developing groundbreaking AI/ML methodologies that will enable future dependable, trustworthy, ethical, and efficient machine intelligence. Join us to shape the future of AI.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ Greetings from MIDA Lab! We are a research lab at the University of Idaho focusi
 
 {% capture text %}
 
-Generalizability, Interpretable AI, Uncertainty Quantification
+Trustworthy AI refers to AI systems designed and deployed to be transparent, robust, and respectful of data privacy. Our focused areas include generalizability, interpretable AI, and uncertainty quantification.
 
 {%
   include button.html
