@@ -3,7 +3,7 @@
 
 # MIDA-Lab
 
-Greetings from MIDA Lab! We are a research lab at the University of Idaho focusing on AI/ML research and education. We are transforming the world by developing groundbreaking AI/ML methodologies that enable future dependable, trustworthy, ethical, and efficient machine intelligence. Join us to shape the future of AI.
+Greetings from MIDA Lab! We are a research lab at the University of Idaho focusing on AI/ML research and education. Members of the lab are doing amazing and high-impact research and are transforming the world by developing groundbreaking AI/ML methodologies that will enable future dependable, trustworthy, ethical, and efficient machine intelligence. Join us to shape the future of AI.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ Greetings from MIDA Lab! We are a research lab at the University of Idaho focusi
 
 {% capture text %}
 
-Generalizable AI, Interpretable AI
+Generalizability, Interpretable AI, Uncertainty Quantification
 
 {%
   include button.html
@@ -38,7 +38,7 @@ Generalizable AI, Interpretable AI
 
 {% capture text %}
 
-Robust and Safe AI: Attack on AI, and Defense
+Robust and Safe AI: Attack and Defend AI
 
 {%
   include button.html
@@ -67,7 +67,7 @@ Robust and Safe AI: Attack on AI, and Defense
 
 {% capture text %}
 
-Generative AI: Generative adversarial Networks, Diffusion models
+Generative AI: Generative Adversarial Networks, Diffusion models
 
 {%
   include button.html
@@ -94,7 +94,7 @@ Generative AI: Generative adversarial Networks, Diffusion models
 
 {% capture text %}
 
-MedAI: CAD for for cancer early detection, Benchmark dataset, Histopathology image analysis, Physical Rehabilitation, skin cancer
+MedAI: CAD for Cancer Early Detection, Benchmark Dataset, Histopathology Image Analysis, Physical Rehabilitation, Skin Cancer 
 
 {%
   include button.html
@@ -122,7 +122,7 @@ MedAI: CAD for for cancer early detection, Benchmark dataset, Histopathology ima
 
 {% capture text %}
 
-Large Language Models (LLMs): multi-modal LLMs, causality discovery, text classification
+Large Language Models (LLMs): Multi-modal LLMs, Causality Discovery, Text Classification
 
 {%
   include button.html
@@ -149,7 +149,7 @@ Large Language Models (LLMs): multi-modal LLMs, causality discovery, text classi
 
 {% capture text %}
 
-Materials Science-AI: image segmentation, data generation, ROI generation, Image Labeling
+Materials Science-AI: Instance Segmentation, Data Synthesis, ROI Generation, Image Labeling
 
 {%
   include button.html
