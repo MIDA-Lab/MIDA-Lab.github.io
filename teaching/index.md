@@ -1,11 +1,11 @@
 ---
-title: Teaching
+title: AI Courses
 nav:
   order: 2
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-book" %}Teaching
+# {% include icon.html icon="fa-solid fa-book" %}AI Courses
 
 The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core AI courses, which include deep learning, machine learning, optimization, adversarial learning, data science, image processing, python for machine learning, and natural language processing. Our courses are designed to provide students with a solid foundation in the theory and practice of AI.
 

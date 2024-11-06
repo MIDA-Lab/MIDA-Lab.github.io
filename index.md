@@ -153,7 +153,7 @@ Materials Science-AI: image segmentation, data generation, ROI generation, Image
 
 {%
   include button.html
-  link='research?search="tag: ms-ai"'
+  link='research?search="tag: materials science-ai"'
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -165,7 +165,7 @@ Materials Science-AI: image segmentation, data generation, ROI generation, Image
 {%
   include feature.html
   image="images/ai-tools.jpg"
-  link='research?search="tag: ms-ai"'
+  link='research?search="tag: materials science-ai"'
   title="Materials Science-AI"
   flip=true
   text=text

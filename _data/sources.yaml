@@ -1162,7 +1162,7 @@
   gsid: n87o4MAAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-  tags"
+  tags:
   - med-ai
   - imbalanced-date
   - cancer
@@ -1181,6 +1181,7 @@
   gsid: n87o4MAAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+  tags:
   - llm
   - nlp
   - nuclear-ai
