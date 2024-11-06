@@ -38,7 +38,7 @@ Trustworthy AI refers to AI systems designed and deployed to be transparent, rob
 
 {% capture text %}
 
-Robust and Safe AI: Attack and Defend AI
+Robust and safe AI systems can perform reliably and mitigate potential harm in a variety of conditions, including unexpected errors, attacks, and environmental changes.
 
 {%
   include button.html
