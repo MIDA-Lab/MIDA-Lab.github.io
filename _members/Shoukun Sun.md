@@ -1,6 +1,6 @@
 ---
 name: Shoukun Sun
-image: images/shoukun.jpeg
+image: images/members/shoukun.jpeg
 role: phd
 aliases:
     - S Sun

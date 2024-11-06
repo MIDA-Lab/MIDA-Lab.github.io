@@ -1,6 +1,6 @@
 ---
 name: Alex Vakanski
-image: images/alex-vakanski.jpg
+image: images/members/alex-vakanski.jpg
 role: assoc
 aliases:
     - A Vakanski
