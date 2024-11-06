@@ -791,7 +791,7 @@
   file: google-scholar.yaml
   tags:
   - med-ai
-  - trust-ai
+  - trustworthy-ai
   - generalization
 - id: n87o4MAAAAAJ:roLk4NBRz8UC
   title: Unsupervised saliency estimation based on robust hypotheses
@@ -1144,7 +1144,7 @@
   file: google-scholar.yaml
   tags:
   - ai
-  - trust-ai
+  - trustworthy-ai
 - id: n87o4MAAAAAJ:Zph67rFs4hoC
   title: Texture analysis and imbalanced data processing for papillary thyroid microcarcinoma
     detection
@@ -1257,7 +1257,7 @@
   tags:
   - med-ai
   - generalization
-  - trust-ai
+  - trustworthy-ai
 - id: n87o4MAAAAAJ:u_35RYKgDlwC
   title: A fine pore-preserved deep neural network for porosity analytics of a high
     burnup U-10Zr metallic fuel
