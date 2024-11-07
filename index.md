@@ -3,7 +3,7 @@
 
 # MIDA-Lab
 
-Greetings from MIDA Lab! We are a research lab at the University of Idaho focusing on AI/ML research and education. Members of the lab are doing amazing and high-impact research and transforming the world by developing groundbreaking AI/ML methodologies that will enable future dependable, trustworthy, ethical, and efficient machine intelligence. Join us to shape the future of AI.
+Greetings from MIDA Lab! We are a research lab at the University of Idaho focusing on high-impact AI/ML research and education. Members of the lab are doing amazing research and transforming the world by developing groundbreaking AI/ML methodologies that enable future dependable, trustworthy, ethical, and efficient machine intelligence. **Join us to shape the future of AI.**
 
 {% include section.html %}
 
