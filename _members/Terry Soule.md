@@ -1,10 +1,10 @@
 ---
 name: Terry Soule
-image: images/members/alex-vakanski.jpg
-role: assoc
+image: images/members/terry-soule.jpg
+role: Professor
 aliases:
-    - A Vakanski
+    - T Soule
 links:
-    home-page: https://www.uidaho.edu/engr/our-people/alex-vakanski
-    email: vakanski@uidaho.edu
+    home-page: https://www.uidaho.edu/engr/departments/cs/our-people/faculty/terry-soule
+    email: tsoule@uidaho.edu
 ---
