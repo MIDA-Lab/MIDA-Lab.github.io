@@ -128,7 +128,6 @@ The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core 
 
 {% include section.html %}
 # CS 472/572: Machine Learning
-
 {% capture img %}
   {% include figure.html image="images/475-575.jpg" width="320px" %}
 {% endcapture %}
@@ -167,15 +166,47 @@ The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core 
 {% include float.html clear=true %}
 
 {% include section.html %}
+# CS 488/588: Applied Data Science with Python
+{% capture img %}
+  {% include figure.html image="images/488-588.jpg" width="320px" %}
+{% endcapture %}
+{% include float.html content=img %}
+
+**Total Credits**: 3 ; **Time**: Every Spring
+
+**Course Objectives**: The course introduces students to tools and libraries that are commonly used for managing the various phases in the life cycle of data science projects. The course begins with a review of the fundamentals of Python programming. The data engineering theme presents techniques for data collection, exploration, and visualization. Model engineering pipelines are studied next, including topics related to model design, selection, and evaluation for image processing, natural language processing, and time series analysis. The course theme on Data Science Operations (DSOps) encompasses techniques for model serving, performance monitoring, diagnosis, and reproducibility of projects deployed in production. Throughout the course, students will gain hands-on experience with various Python libraries for data science workflow management. Additional work is required for graduate credit. 
+
+**Textbook**: No Textbook
+
+**Instructor**: Alex Vakanski
+
+**Prerequisites**: CS 212 Practical Python
+{% include float.html clear=true %}
+
+{% include section.html %}
+# CS 404/504: Natural Language Processing
+{% capture img %}
+  {% include figure.html image="images/nlp.jpg" width="320px" %}
+{% endcapture %}
+{% include float.html content=img  flip=true%}
+
+**Total Credits**: 3 ; **Time**: Every Spring
+
+**Course Objectives**: This course introduces students to the foundational concepts and techniques used in Natural Language Processing (NLP). It covers both the theoretical foundations as well as practical applications. By the end of the course, students will be familiar with various NLP tasks, algorithms, and will have hands-on experience with several NLP tools and libraries. 
+
+**Textbook**: Neural Network Methods for Natural Language Processing by Yoav Goldberg  
+
+**Instructor**: Boyu Zhang
+
+**Prerequisites**: Instructor Permission for non-CS students
+{% include float.html clear=true %}
+{% include section.html %}
 
 # Other Courses
 
 - ENGR 212: Python Programming Essentials
 - CS 455/555: Machine Vision
-- CS 487/587: Adversarial Machine Learning
-- CS 488/588: Applied Data Science with Python
 - CS 489/589: Semantic Web and Open Data
-- CS 404/504: Natural Language Processing
 - CS 404/504: AI Data Analysis for Manufacturing, Agriculture, and Energy
 - MATH 483/583: Foundations of Machine Learning
 - STAT 417/517: Statistical Learning and Predictive Modeling
