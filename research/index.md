@@ -11,6 +11,8 @@ nav:
 
 ## Highlighted
 
+{% include citation.html lookup="mdpise:1" style="rich" %}
+{% include citation.html lookup="mdpise:2" style="rich" %}
 {% include citation.html lookup="n87o4MAAAAAJ:GnPB-g6toBAC" style="rich" %}
 {% include citation.html lookup="n87o4MAAAAAJ:isC4tDSrTZIC" style="rich" %}
 
