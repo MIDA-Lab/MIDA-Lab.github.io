@@ -1,5 +1,24 @@
 # Add tags to this file
-
+- id: mdpise:1
+  title: 'Adversarial Learning and Its Applications in Healthcare'
+  authors:
+  - M Xian
+  - A Vakanski
+  publisher: AI (ISSN 2673-2688)
+  date: '2025-10-27'
+  tags:
+  - special issue
+  
+- id: mdpise:2
+  title: 'Adversarial Learning and Its Applications in Healthcare'
+  authors:
+  - M Xian
+  - A Vakanski
+  publisher: AI (ISSN 2673-2688)
+  date: '2025-10-27'
+  tags:
+  - special issue
+  
 - id: n87o4MAAAAAJ:Tyk-4Ss8FVUC
   title: 'Automatic Breast Ultrasound Image Segmentation: A Survey'
   authors:
