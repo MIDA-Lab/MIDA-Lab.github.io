@@ -87,6 +87,25 @@ The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core 
 
 {% include section.html %}
 
+# CS 470/570: Artificial Intelligence
+
+{% capture img %}
+  {% include figure.html image="images/dip_book.jpg" width="320px" %}
+{% endcapture %}
+{% include float.html content=img flip=true %}
+
+**Total Credits**: 3 ; **Time**: Every Summer
+
+**Course Objectives**: This course covers the more important and successful techniques from the very broad field of artificial intelligence. Topics covered include search, game playing (adversarial search), constraint satisfaction, reasoning and knowledge representation, planning, fuzzy logic, and learning. In addition, we will discuss the philosophical aspects of AI. What is AI? Is it achievable?
+
+**Textbook**: Russell and Norvig Artificial Intelligence: A Modern Approach, Prentice Hall (Suggested, but not required).
+
+**Prerequisites**: CS 210 Programming Languages
+
+{% include float.html clear=true %}
+
+{% include section.html %}
+
 # Other Courses
 
 - ENGR 212: Python Programming Essentials
