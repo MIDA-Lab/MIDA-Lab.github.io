@@ -1,5 +1,5 @@
 ---
 name: Ryan Charit
-image: images/Ryan.jpg
+image: images/members/Ryan.jpg
 role: ms
 ---
