@@ -110,7 +110,7 @@ The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core 
 # CS 472/572: Evolutionary Computation
 
 {% capture img %}
-  {% include figure.html image="images/472-572.jpg" width="320px" %}
+  {% include figure.html image="images/472-572-1.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img flip=true %}
 
