@@ -53,7 +53,7 @@ Robust and safe AI systems can perform reliably and mitigate potential harm in a
 
 {%
   include feature.html
-  image="images/robust-ai.jpg"
+  image="images/robust-ai.png"
   link='research?search="tag: robust-ai"'
   title="Robust and Safe AI"
   flip=true
