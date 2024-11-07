@@ -8,6 +8,7 @@
   publisher: AI (ISSN 2673-2688)
   date: '2025-10-27'
   link: ''
+  image: images/publications/mdpi-ai.png
   tags:
   - special issue
   plugin: sources.py
@@ -17,9 +18,10 @@
   authors:
   - M Xian
   - A Vakanski
-  publisher: AI (ISSN 2673-2688)
-  date: '2025-10-27'
+  publisher: Healthcare (ISSN 2227-9032)
+  date: '2024-07-27'
   link: ''
+  image: images/publications/mdpi-healthcare.png
   tags:
   - special issue
   plugin: sources.py
