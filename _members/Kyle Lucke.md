@@ -1,5 +1,5 @@
 ---
 name: Kyle Lucke
-image: images/photo.jpg
+image: images/lucke.jpg
 role: phd
 ---
