@@ -67,7 +67,8 @@ Robust and safe AI aims to develop AI models and systems that can perform well i
 
 {% capture text %}
 
-Generative AI uses generative models to produce text, images, videos, or other forms of data. These models learn the underlying patterns and structures of the training data, enabling them to create new data. 
+Generative AI uses generative models to produce text, images, videos, or other forms of data. These models learn the underlying patterns and structures of the training data, enabling them to create new data.
+
 {%
   include button.html
   link='research?search="tag: gen-ai"'
