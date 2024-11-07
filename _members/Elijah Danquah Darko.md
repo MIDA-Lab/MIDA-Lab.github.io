@@ -1,5 +1,5 @@
 ---
 name: Elijah Danquah Darko
-image: images/elijah.jpg
+image: images/members/elijah.jpg
 role: phd
 ---
