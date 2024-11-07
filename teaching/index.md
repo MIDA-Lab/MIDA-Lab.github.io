@@ -100,6 +100,28 @@ The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core 
 
 **Textbook**: Russell and Norvig Artificial Intelligence: A Modern Approach, Prentice Hall (Suggested, but not required).
 
+**Instructor**: Terry Soule
+
+**Prerequisites**: CS 210 Programming Languages
+
+{% include float.html clear=true %}
+{% include section.html %}
+
+# CS 472/572: Evolutionary Computation
+
+{% capture img %}
+  {% include figure.html image="images/470-570.jpg" width="320px" %}
+{% endcapture %}
+{% include float.html content=img flip=true %}
+
+**Total Credits**: 3 ; **Time**: Every Summer
+
+**Course Objectives**: Solving computation problems by "growing" solutions; simulates natural evolution using analogues of mutation, crossover, and other generic transformations on representations of potential solutions; standard EC techniques such as genetic algorithms and evolutionary programming, mathematical explanations of why they work, and a survey of some applications; the focus is on solving real-world problems using projects. Graduate-level research and possible paper or presentation required for graduate credit.
+
+**Textbook**: Introduction to Evolutionary Computation, 2nd Ed. by A. E. Eiben and J. E. Smith, ISBN: 978-3662448731.
+
+**Instructor**: Terry Soule
+
 **Prerequisites**: CS 210 Programming Languages
 
 {% include float.html clear=true %}
@@ -110,7 +132,6 @@ The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core 
 
 - ENGR 212: Python Programming Essentials
 - CS 455/555: Machine Vision
-- CS 470/570: Artificial Intelligence
 - CS 472/572: Evolutionary Computation
 - CS 475/575: Machine Learning
 - CS 487/587: Adversarial Machine Learning
