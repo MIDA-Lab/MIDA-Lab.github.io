@@ -114,7 +114,7 @@ The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core 
 {% endcapture %}
 {% include float.html content=img flip=true %}
 
-**Total Credits**: 3 ; **Time**: Every Summer
+**Total Credits**: 3 ; **Time**: Every Spring
 
 **Course Objectives**: Solving computation problems by "growing" solutions; simulates natural evolution using analogues of mutation, crossover, and other generic transformations on representations of potential solutions; standard EC techniques such as genetic algorithms and evolutionary programming, mathematical explanations of why they work, and a survey of some applications; the focus is on solving real-world problems using projects. Graduate-level research and possible paper or presentation required for graduate credit.
 
@@ -127,13 +127,51 @@ The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core 
 {% include float.html clear=true %}
 
 {% include section.html %}
+# CS 472/572: Machine Learning
+
+{% capture img %}
+  {% include figure.html image="images/475-575.jpg" width="320px" %}
+{% endcapture %}
+{% include float.html content=img %}
+
+**Total Credits**: 3 ; **Time**: Every Spring
+
+**Course Objectives**: Analysis and implementation of classic machine learning algorithms including neural networks, deep learning networks, principle component analysis, decision trees, support vector machines, clustering, reinforcement learning, ensemble learning, K-means, self-organizing maps and probabilistic learning such as Markov Chain Monte Carlo and Expectation Maximization algorithms. Techniques of pre-processing data, training, testing, and validating will be discussed along with statistical measures commonly used and pitfalls commonly encountered. Additional work required for graduate credit.
+
+**Textbook**: Machine Learning: An Algorithmic Perspective by Stephen Marsland (Second Edition!)
+
+**Instructor**: Boyu Zhang
+
+**Prerequisites**: CS 210 Programming Languages
+
+{% include float.html clear=true %}
+
+{% include section.html %}
+
+# CS 487/587: Adversarial Machine Learning
+{% capture img %}
+  {% include figure.html image="images/487-587.jpg" width="320px" %}
+{% endcapture %}
+{% include float.html content=img flip=true %}
+
+**Total Credits**: 3 ; **Time**: Every Spring
+
+**Course Objectives**: The course introduces students to adversarial attacks and defenses against machine learning models. The particular focus is on adversarial examples in deep learning models, due to their prevalence in modern machine learning applications. Covered topics include evasion attacks against white-box and black-box machine learning models, data poisoning attacks, privacy attacks, defense strategies against common adversarial attacks, generative adversarial networks, and robust machine learning models. The course also provides an overview of adversarial attacks against machine learning models used in cybersecurity applications. Additional work is required for graduate credit. 
+
+**Textbook**: No Textbook
+
+**Instructor**: Alex Vakanski
+
+**Prerequisites**: Instructor Permission
+
+{% include float.html clear=true %}
+
+{% include section.html %}
 
 # Other Courses
 
 - ENGR 212: Python Programming Essentials
 - CS 455/555: Machine Vision
-- CS 472/572: Evolutionary Computation
-- CS 475/575: Machine Learning
 - CS 487/587: Adversarial Machine Learning
 - CS 488/588: Applied Data Science with Python
 - CS 489/589: Semantic Web and Open Data
