@@ -1,7 +1,7 @@
 ---
 name: Terry Soule
 image: images/members/terry-soule.jpg
-role: Prof
+role: prof
 aliases:
     - T Soule
 links:
