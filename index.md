@@ -26,7 +26,7 @@ Trustworthy AI refers to AI systems designed and deployed to be transparent, rob
 
 {%
   include feature.html
-  image="images/trustworthy-ai.jpg"
+  image="images/trustworthy-ai.jpeg"
   link='research?search="tag: trustworthy-ai"'
   title="Trustworthy AI"
   text=text
