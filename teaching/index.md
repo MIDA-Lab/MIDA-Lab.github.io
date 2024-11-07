@@ -90,7 +90,7 @@ The University of Idaho offers 17 AI courses. MIDA Lab alone teaches eight core 
 # CS 470/570: Artificial Intelligence
 
 {% capture img %}
-  {% include figure.html image="images/dip_book.jpg" width="320px" %}
+  {% include figure.html image="images/470-570.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img flip=true %}
 
