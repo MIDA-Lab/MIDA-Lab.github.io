@@ -38,7 +38,7 @@ Trustworthy AI aims to design and deploy transparent, robust, and privacy-preser
 
 {% capture text %}
 
-Robust and safe AI systems can perform reliably and mitigate potential harm in a variety of conditions, including unexpected errors, attacks, and environmental changes.
+Robust and safe AI aims to develop AI models and systems that can perform well in a variety of conditions, including unexpected errors, attacks, and environmental changes.
 
 {%
   include button.html
@@ -67,8 +67,7 @@ Robust and safe AI systems can perform reliably and mitigate potential harm in a
 
 {% capture text %}
 
-Generative AI: Generative Adversarial Networks, Diffusion models
-
+Generative AI uses generative models to produce text, images, videos, or other forms of data. These models learn the underlying patterns and structures of the training data, enabling them to create new data. 
 {%
   include button.html
   link='research?search="tag: gen-ai"'
