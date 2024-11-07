@@ -10,6 +10,7 @@ nav:
 {% include section.html %}
 
 {% include portrait.html lookup="Min Xian" %}
+{% include portrait.html lookup="Terry Soule" %}
 {% include portrait.html lookup="Alex Vakanski" %}
 {% include portrait.html lookup="Boyu Zhang" %}
 
