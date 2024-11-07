@@ -108,6 +108,7 @@ Large Language Models (LLMs): Multi-modal LLMs, Causality Discovery, Text Classi
   image="images/llm.webp"
   link='research?search="tag: llm"'
   title="Large Language Models (LLMs)"
+  flip=true
   text=text
 %}
 
@@ -132,7 +133,6 @@ MedAI aims to develop and evaluate new AI methodologies to enable precision heal
   image="images/med-ai.jpeg"
   link='research?search="tag: med-ai"'
   title="MedAI"
-  flip=true
   text=text
 %}
 
