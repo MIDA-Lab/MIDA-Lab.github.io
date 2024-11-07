@@ -11,7 +11,7 @@ Greetings from MIDA Lab! We are a research lab at the University of Idaho focusi
 
 {% capture text %}
 
-Trustworthy AI refers to AI systems designed and deployed to be transparent, robust, and respectful of data privacy. Our focused areas include generalizability, interpretable AI, and uncertainty quantification.
+Trustworthy AI aims to design and deploy transparent, robust, and privacy-preserving AI approaches and models. Our focused areas include generalizability, interpretable AI, and uncertainty quantification.
 
 {%
   include button.html
