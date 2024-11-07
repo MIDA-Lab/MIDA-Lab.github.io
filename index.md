@@ -164,7 +164,7 @@ Materials Science-AI: Instance Segmentation, Data Synthesis, ROI Generation, Ima
 
 {%
   include feature.html
-  image="images/ai-tools.jpg"
+  image="images/materials science.jpg"
   link='research?search="tag: materials science-ai"'
   title="Materials Science-AI"
   flip=true
