@@ -67,7 +67,7 @@ Robust and safe AI aims to develop AI models and systems that can perform well i
 
 {% capture text %}
 
-Generative AI uses generative models to produce text, images, videos, or other forms of data. These models learn the underlying patterns and structures of the training data, enabling them to create new data.
+Generative AI uses generative models to produce text, images, videos, or other forms of data. These models create new data by learning the underlying patterns and structures of the training dataset.
 
 {%
   include button.html
@@ -87,38 +87,6 @@ Generative AI uses generative models to produce text, images, videos, or other f
   title="Generative AI"
   text=text
 %}
-
-
-
-
-
-{% capture text %}
-
-MedAI: CAD for Cancer Early Detection, Benchmark Dataset, Histopathology Image Analysis, Physical Rehabilitation, Skin Cancer 
-
-{%
-  include button.html
-  link='research?search="tag: med-ai"'
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/med-ai.jpeg"
-  link='research?search="tag: med-ai"'
-  title="MedAI"
-  flip=true
-  text=text
-%}
-
-
-
-
 
 {% capture text %}
 
@@ -144,6 +112,29 @@ Large Language Models (LLMs): Multi-modal LLMs, Causality Discovery, Text Classi
 %}
 
 
+{% capture text %}
+
+MedAI aims to develop and evaluate new AI methodologies to enable precision healthcare, including fully automated cancer early detection, histopathology image analysis, AI-enhanced physical rehabilitation, etc. 
+
+{%
+  include button.html
+  link='research?search="tag: med-ai"'
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/med-ai.jpeg"
+  link='research?search="tag: med-ai"'
+  title="MedAI"
+  flip=true
+  text=text
+%}
 
 
 
