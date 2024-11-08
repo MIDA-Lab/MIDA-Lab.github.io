@@ -1,5 +1,5 @@
 ---
 name: Lawhori Chakrabarti
-image: images/photo.jpg
+image: images/members/lawhori.jpg
 role: phd
 ---
