@@ -10,6 +10,7 @@ nav:
 The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** core AI courses, which include deep learning, machine learning, optimization, adversarial learning, data science, image processing, python for machine learning, and natural language processing. Our courses are designed to provide students with a solid foundation in the theory and practice of AI.
 
 **AI/ML Certificates**
+
 [Artificial Intelligence and Machine Learning (AI/ML) Graduate Academic Certificate](https://catalog.uidaho.edu/colleges-related-units/engineering/computer-science/artificial-intelligence-and-machine-learning-graduate-academic-certificate/#requirementstext)
 
 [Artificial Intelligence and Machine Learning (AI/ML) Undergraduate Academic Certificate](https://catalog.uidaho.edu/colleges-related-units/engineering/computer-science/artificial-intelligence-and-machine-learning-undergraduate-academic-certificate/)
