@@ -1,5 +1,5 @@
 ---
 name: Shahidur Rahoman Sohag
-image: images/photo.jpg
+image: images/members/sohag.jpg
 role: ms
 ---

@@ -1,5 +1,5 @@
 ---
 name: Hengyi Tian
-image: images/photo.jpg
+image: images/members/hengyi.jpg
 role: phd
 ---

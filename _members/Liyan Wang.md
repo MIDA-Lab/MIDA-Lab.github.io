@@ -1,5 +1,5 @@
 ---
 name: Liyan Wang
-image: images/photo.jpg
+image: images/members/liyan.jpg
 role: phd
 ---
