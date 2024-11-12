@@ -8,11 +8,10 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 {% include section.html %}
-
-{% include portrait.html lookup="Min Xian" %}
-{% include portrait.html lookup="Terry Soule" %}
 {% include portrait.html lookup="Alex Vakanski" %}
 {% include portrait.html lookup="Boyu Zhang" %}
+{% include portrait.html lookup="Min Xian" %}
+{% include portrait.html lookup="Terry Soule" %}
 
 # Ph.D. Students
 
