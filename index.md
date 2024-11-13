@@ -90,7 +90,7 @@ Generative AI uses generative models to produce text, images, videos, or other f
 
 {% capture text %}
 
-Large Language Models (LLMs): Multi-modal LLMs, Causality Discovery, Text Classification
+Large Language Models (LLMs): Multi-modal LLMs, Causality Discovery, and Text Classification
 
 {%
   include button.html
@@ -140,7 +140,7 @@ MedAI aims to develop and evaluate new AI methodologies to enable precision heal
 
 {% capture text %}
 
-Materials Science-AI: Instance Segmentation, Data Synthesis, ROI Generation, Image Labeling
+Materials Science-AI: Instance Segmentation, Data Synthesis, ROI Generation, and Image Labeling
 
 {%
   include button.html
