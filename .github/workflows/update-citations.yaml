@@ -58,6 +58,7 @@ jobs:
         if: github.event.action != 'closed'
         run: python _cite/cite.py
         timeout-minutes: 15
+        continue-on-error: true
 
       - name: Check if citations changed
         if: github.event.action != 'closed'
