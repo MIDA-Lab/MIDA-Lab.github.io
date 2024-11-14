@@ -11,10 +11,15 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="mdpise:1" style="rich" %}
-{% include citation.html lookup="mdpise:2" style="rich" %}
-{% include citation.html lookup="n87o4MAAAAAJ:GnPB-g6toBAC" style="rich" %}
-{% include citation.html lookup="n87o4MAAAAAJ:isC4tDSrTZIC" style="rich" %}
+{% include citation.html lookup="mdpisi:1" style="rich" %}
+{% include citation.html lookup="mdpisi:2" style="rich" %}
+
+{% capture content %}
+{% include citation.html lookup="hash:0dc460dd" style="rich" %}
+{% include citation.html lookup="hash:bd895385" style="rich" %}
+{% include citation.html lookup="hash:f4b51bc4" style="rich" %}
+{% endcapture %}
+{% include grid.html content=content %}
 
 {% include section.html %}
 

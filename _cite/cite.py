@@ -100,9 +100,11 @@ for a in range(0, len(sources)):
     a_id = get_safe(sources, f"{a}.id", "")
     if not a_id:
         continue
+    a_hash_id = id_gen(sources[a])
     for b in range(a + 1, len(sources)):
         b_id = get_safe(sources, f"{b}.id", "")
-        if b_id == a_id:
+        b_hash_id = id_gen(sources[b])
+        if b_id == a_id or b_hash_id == a_hash_id:
             log(f"Found duplicate {b_id}", 2)
             sources[a].update(sources[b])
             sources[b] = {}

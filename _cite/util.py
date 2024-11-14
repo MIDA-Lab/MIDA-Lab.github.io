@@ -5,6 +5,7 @@ utility functions for cite process and plugins
 import subprocess
 import json
 import yaml
+import hashlib
 from yaml.loader import SafeLoader
 from pathlib import Path
 from datetime import date, datetime
@@ -236,3 +237,28 @@ def cite_with_manubot(_id):
 
     # return citation data
     return citation
+
+
+def id_gen(source):
+    """
+    Generate unique id from source fields.
+    Rule: title + first author last name + year
+    """
+    # Extract required information from the source
+    title_words = source.get("title", "").split()
+    limited_title = "_".join(title_words).lower()
+
+    authors = source.get("authors", [])
+    date = source.get("date", "")
+    year = date.split("-")[0] if date else ""
+
+    # Get the last name of the first author if available
+    first_author_last_name = authors[0].split()[-1].lower() if authors else ""
+
+    # Construct the unique ID
+    unique_id = f"{limited_title}_{first_author_last_name}_{year}".encode()
+
+    # Generate a digital digest of the unique ID
+    unique_id = 'hash:' + hashlib.sha256(unique_id).hexdigest()[:8]
+
+    return unique_id

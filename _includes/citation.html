@@ -65,7 +65,11 @@
         </span>
         &nbsp;·&nbsp;
         <span class="citation-date">
+          {% if include.style == "rich" %}
           {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
+          {% else %}
+          {{- citation.date | default: "[no date info]" | date: "%Y" -}}
+          {% endif %}
         </span>
         &nbsp;·&nbsp;
         <span class="citation-id">

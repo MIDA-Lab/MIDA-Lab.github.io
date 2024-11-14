@@ -52,6 +52,9 @@ def main(entry):
             "link": get_safe(work, "link", ""),
         }
 
+        # for google scholar, use generated id instead of citation_id
+        source['id'] = id_gen(source)
+
         # copy fields from entry to source
         source.update(entry)
 
