@@ -15,9 +15,9 @@ nav:
 {% include citation.html lookup="mdpisi:2" style="rich" %}
 
 {% capture content %}
-{% include citation.html lookup="hash:0dc460dd" style="rich" %}
-{% include citation.html lookup="hash:bd895385" style="rich" %}
-{% include citation.html lookup="hash:f4b51bc4" style="rich" %}
+{% include citation.html lookup="doi:10.1609/aaai.v38i5.28306" style="rich" %}
+{% include citation.html lookup="doi:10.1007/978-3-031-43901-8_33" style="rich" %}
+{% include citation.html lookup="doi:10.1007/978-3-031-16440-8_39" style="rich" %}
 {% endcapture %}
 {% include grid.html content=content %}
 

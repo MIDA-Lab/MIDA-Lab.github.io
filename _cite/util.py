@@ -188,6 +188,8 @@ def cite_with_manubot(_id):
         manubot = json.loads(output[0])
         if len(manubot) == 0:
             manubot = {}
+        else:
+            manubot = manubot[0]
     except Exception:
         raise Exception("Couldn't parse Manubot response")
 
@@ -241,22 +243,14 @@ def cite_with_manubot(_id):
 
 def id_gen(source):
     """
-    Generate unique id from source fields.
-    Rule: title + first author last name + year
+    Generate unique id from source title.
     """
     # Extract required information from the source
-    title_words = source.get("title", "").split()
+    title_words = source.get("title", "").strip().split()
     limited_title = "_".join(title_words).lower()
 
-    authors = source.get("authors", [])
-    date = source.get("date", "")
-    year = date.split("-")[0] if date else ""
-
-    # Get the last name of the first author if available
-    first_author_last_name = authors[0].split()[-1].lower() if authors else ""
-
     # Construct the unique ID
-    unique_id = f"{limited_title}_{first_author_last_name}_{year}".encode()
+    unique_id = limited_title.encode()
 
     # Generate a digital digest of the unique ID
     unique_id = 'hash:' + hashlib.sha256(unique_id).hexdigest()[:8]
