@@ -17,6 +17,8 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 
 [Artificial Intelligence and Machine Learning (AI/ML) Undergraduate Academic Certificate](https://catalog.uidaho.edu/colleges-related-units/engineering/computer-science/artificial-intelligence-and-machine-learning-undergraduate-academic-certificate/)
 
+**All courses and certificates are available online to remote students. Fully online students anywhere in the world only pay resident tuition rates. Please refer to the [CS online MS program](https://www.uidaho.edu/engr/programs/eo/programs/degrees/computer-science) for details.**
+
 {% include section.html %}
 
 # CS474/574: Deep Learning
