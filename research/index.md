@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+<!-- We have {{ site.data.citations | size }} publications in total. -->
+
 {% include section.html %}
 
 ## Highlighted
