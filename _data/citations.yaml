@@ -2086,6 +2086,7 @@
 - id: hash:bd895385
   title: Breast Ultrasound Tumor Classification Using a Hybrid Multitask CNN-Transformer
     Network
+  image: images/publications/Hybrid-MT-ESTAN.png
   authors:
   - B Shareef
   - M Xian
@@ -2094,7 +2095,6 @@
   publisher: MICCAI 2023
   date: '2023-10-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:J_g5lzvAfSwC
-  image: images/publications/Hybrid-MT-ESTAN.png
   gsid: n87o4MAAAAAJ
   plugin: sources.py
   file: sources.yaml

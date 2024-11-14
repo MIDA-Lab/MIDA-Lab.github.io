@@ -137,7 +137,7 @@ for index, source in enumerate(sources):
     _id = get_safe(source, "id", "").strip()
 
     # Manubot doesn't work without an id
-    if _id:
+    if _id and not _id.startswith("hash:"):
         log("Using Manubot to generate citation", 1)
 
         try:
