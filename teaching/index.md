@@ -2,7 +2,7 @@
 title: AI Courses
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: AI Courses
 ---
 
 # {% include icon.html icon="fa-solid fa-book" %}AI Courses & Certificates
