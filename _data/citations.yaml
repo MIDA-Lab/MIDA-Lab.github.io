@@ -1795,6 +1795,10 @@
   publisher: International journal of machine learning and computing 8 (5), 428, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N6z9evUAAAAJ&pagesize=100&citation_for_view=N6z9evUAAAAJ:UebtZRa9Y70C
+  tags:
+  - gen-ai
+  - rehabilitation
+  - med-ai
   plugin: sources.py
   file: sources.yaml
 - id: hash:fb9d89aa
@@ -1819,6 +1823,12 @@
   publisher: IEEE ISBI, 2022
   date: '2022-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:j3f4tGmQtD8C
+  tags:
+  - med-ai
+  - gen-ai
+  - gan
+  - histopathology
+  - image synthesis
   plugin: sources.py
   file: sources.yaml
 - id: hash:ddca0a8d
@@ -1904,7 +1914,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:M3NEmzRMIkIC
   tags:
   - med-ai
-  - generative-ai
+  - gen-ai
   - histopathology
   - image synthesis
   plugin: sources.py
@@ -2035,7 +2045,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n87o4MAAAAAJ&pagesize=100&citation_for_view=n87o4MAAAAAJ:NMxIlDl6LWMC
   tags:
   - med-ai
-  - generative-ai
+  - gen-ai
   - gan
   - histopathology
   - image synthesis
