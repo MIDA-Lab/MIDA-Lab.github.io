@@ -140,7 +140,7 @@ MedAI aims to develop and evaluate new AI methodologies to enable precision heal
 
 {% capture text %}
 
-Materials Science-AI: Instance Segmentation, Data Synthesis, ROI Generation, and Image Labeling
+Materials Science-AI aims to develop innovative AI methodologies for physics-informed modeling and accelerate critical materials characterization and development.
 
 {%
   include button.html
