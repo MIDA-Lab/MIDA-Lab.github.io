@@ -219,7 +219,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 {% include float.html clear=true %}
 {% include section.html %}
 
-# Other Courses
+# Other Related Courses
 
 - ENGR 212: Python Programming Essentials
 - CS 455/555: Machine Vision
