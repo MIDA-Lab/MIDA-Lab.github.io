@@ -30,7 +30,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 
 **Total Credits**: 3 ; **Time**: Every Fall
 
-**Course Objectives**: This course aims to present the major topics in deep learning for high-dimensional data representation. We will discuss the mathematic fundamentals, Convolutional Neural Networks (CNNs), Recurrent Neural Networks RNNs, deep unsupervised learning, and deep learning frameworks, tools, and applications.
+**Course Objectives**: This course aims to present the major topics in deep learning for high-dimensional data representation. We will discuss the mathematic fundamentals, convolutional neural networks (CNNs), recurrent neural networks (RNNs), deep unsupervised learning, deep learning frameworks, tools, and applications.
 
 **Textbook**: Deep Learning, Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press, 2016 http://www.deeplearningbook.org/
 
@@ -45,7 +45,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 # CS 477/577: Python for Machine Learning
 
 {% capture img %}
-  {% include figure.html image="images/ml_python.jpg" width="320px" %}
+  {% include figure.html image="images/PML.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img flip=true %}
 
