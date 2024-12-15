@@ -11,7 +11,7 @@ Greetings from MIDA Lab! We are a research lab at the University of Idaho focusi
 
 {% capture text %}
 
-Trustworthy AI aims to design and deploy transparent, robust, and privacy-preserving AI approaches and models. Our focused areas include generalizability, interpretable AI, and uncertainty quantification.
+Trustworthy AI aims to design and deploy transparent, robust, and privacy-preserving AI approaches and models. Our focused areas include generalizability evaluation, interpretable AI, and uncertainty quantification.
 
 {%
   include button.html
@@ -32,13 +32,9 @@ Trustworthy AI aims to design and deploy transparent, robust, and privacy-preser
   text=text
 %}
 
-
-
-
-
 {% capture text %}
 
-Robust and safe AI aims to develop AI models and systems that can perform well in a variety of conditions, including unexpected errors, attacks, and environmental changes.
+Robust and safe AI aims to develop AI models and systems that perform well in various conditions, including unexpected errors, attacks, and environmental changes.
 
 {%
   include button.html
@@ -60,10 +56,6 @@ Robust and safe AI aims to develop AI models and systems that can perform well i
   style="bare"
   text=text
 %}
-
-
-
-
 
 {% capture text %}
 
@@ -90,7 +82,7 @@ Generative AI uses generative models to produce text, images, videos, or other f
 
 {% capture text %}
 
-Large Language Models (LLMs): Multi-modal LLMs, Causality Discovery, and Text Classification
+We focus on developing multi-modal LLMs, causal discovery, and text classification.
 
 {%
   include button.html
@@ -112,10 +104,9 @@ Large Language Models (LLMs): Multi-modal LLMs, Causality Discovery, and Text Cl
   text=text
 %}
 
-
 {% capture text %}
 
-MedAI aims to develop and evaluate new AI methodologies to enable precision healthcare, including fully automated cancer early detection, histopathology image analysis, AI-enhanced physical rehabilitation, etc. 
+MedAI aims to develop and evaluate new AI methodologies to enable precision healthcare, including fully automated disease detection, histopathology image analysis, AI-enhanced physical rehabilitation, etc. 
 
 {%
   include button.html
@@ -135,8 +126,6 @@ MedAI aims to develop and evaluate new AI methodologies to enable precision heal
   title="MedAI"
   text=text
 %}
-
-
 
 {% capture text %}
 
