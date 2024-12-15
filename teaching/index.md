@@ -146,7 +146,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 {% include section.html %}
 # CS 472/572: Machine Learning
 {% capture img %}
-  {% include figure.html image="images/475-575.jpg" width="320px" %}
+  {% include figure.html image="images/ml.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img %}
 
