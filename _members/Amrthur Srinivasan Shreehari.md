@@ -1,5 +1,5 @@
 ---
-name: Amrthur Srinivasan Shreehari
+name: Amrthur S. Shreehari
 role: ms
 alumni: true
 ---
