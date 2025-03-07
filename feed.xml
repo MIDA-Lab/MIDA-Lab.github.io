@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://mida-lab.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mida-lab.github.io/" rel="alternate" type="text/html" /><updated>2025-03-06T19:43:24+00:00</updated><id>https://mida-lab.github.io/feed.xml</id><title type="html">MIDA-Lab</title><subtitle>We are transforming the world by developing groundbreaking AI/ML methodologies that enable future dependable, trustworthy, ethical, and efficient machine intelligence.</subtitle><entry><title type="html">Example post 3</title><link href="https://mida-lab.github.io/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2025-03-06T19:42:04+00:00</updated><id>https://mida-lab.github.io/2023/02/23/example-post-3</id><content type="html" xml:base="https://mida-lab.github.io/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://mida-lab.github.io/images/photo.jpg" /><media:content medium="image" url="https://mida-lab.github.io/images/photo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example post 2</title><link href="https://mida-lab.github.io/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2025-03-06T19:42:04+00:00</updated><id>https://mida-lab.github.io/2021/09/30/example-post-2</id><content type="html" xml:base="https://mida-lab.github.io/2021/09/30/example-post-2.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>jane-smith</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 1</title><link href="https://mida-lab.github.io/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Example post 1" /><published>2019-01-07T00:00:00+00:00</published><updated>2025-03-06T19:42:04+00:00</updated><id>https://mida-lab.github.io/2019/01/07/example-post-1</id><content type="html" xml:base="https://mida-lab.github.io/2019/01/07/example-post-1.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>sarah-johnson</name></author><category term="biology" /><category term="medicine" /><category term="big data" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://mida-lab.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mida-lab.github.io/" rel="alternate" type="text/html" /><updated>2025-03-07T06:55:52+00:00</updated><id>https://mida-lab.github.io/feed.xml</id><title type="html">MIDA-Lab</title><subtitle>We are transforming the world by developing groundbreaking AI/ML methodologies that enable future dependable, trustworthy, ethical, and efficient machine intelligence.</subtitle><entry><title type="html">GVCFDiffusion: A Breakthrough for Seamless Large-Content Image Generation</title><link href="https://mida-lab.github.io/2025/03/06/GVCFDiffusion.html" rel="alternate" type="text/html" title="GVCFDiffusion: A Breakthrough for Seamless Large-Content Image Generation" /><published>2025-03-06T00:00:00+00:00</published><updated>2025-03-07T06:54:24+00:00</updated><id>https://mida-lab.github.io/2025/03/06/GVCFDiffusion</id><content type="html" xml:base="https://mida-lab.github.io/2025/03/06/GVCFDiffusion.html"><![CDATA[<blockquote>
+  <p><strong>Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation (AAAI-25)</strong> <a href="https://arxiv.org/abs/2412.12771">[Paper]</a> <a href="https://github.com/titorx/gvcfdiffusion">[Code]</a><br />
+Shoukun Sun<sup>1</sup>, Min Xian<sup>1*</sup>, Tiankai Yao<sup>2</sup>, Fei Xu<sup>2</sup>, and Luca Capriotti<sup>2</sup><br />
+<sup>1</sup>MIDA-Lab, Computer Science, University of Idaho; <sup>2</sup>Idaho National Laboratory</p>
+</blockquote>
+
+<p><img src="/images/posts/2025-03-06-GVCFDiffusion/forest.png" alt="forest" /></p>
+
+<p>Generating large images, such as panoramas or 360-degree scenes, remains a significant challenge in the field of text-to-image synthesis. While models like Stable Diffusion excel at producing realistic images, they struggle with large content due to computational constraints. To overcome this, researchers have turned to patch-based methods, where small patches are generated and then merged. However, these methods often result in noticeable seams and inconsistent styles.</p>
+
+<h2 id="our-solution-guided-and-variance-corrected-fusion-with-style-alignment">Our Solution: Guided and Variance-Corrected Fusion with Style Alignment</h2>
+
+<p>Our research introduces three key innovations to address these challenges:</p>
+
+<ol>
+  <li>
+    <p><strong>Guided Fusion (GF):</strong> We use a guidance map to weight the averaging process in overlapped regions, ensuring that patches closer to the center dominate the denoising process. This reduces perturbations and produces more seamless results.</p>
+  </li>
+  <li>
+    <p><strong>Variance-Corrected Fusion (VCF):</strong> When using certain samplers like DDPM, averaging overlapped regions can lead to blurred images due to reduced variance. Our VCF technique corrects this variance, preserving fine details and preventing blurriness.</p>
+  </li>
+  <li>
+    <p><strong>One-shot Style Alignment (SA):</strong> To ensure consistent style across patches, we align the initial noise through semantic interpolation. Unlike previous methods, our approach performs this alignment once, without disturbing the denoising process.</p>
+  </li>
+</ol>
+
+<h2 id="impressive-results">Impressive Results</h2>
+
+<p>Our experiments demonstrate significant improvements over existing methods. When evaluating on 512×3584 panorama images, which is 7x wider than the diffusion model output size, our approach consistently outperforms others in terms of FID, KID, GIQA-QS, and GIQA-DS scores. Visual comparisons show seamless, coherent landscapes with consistent lighting and texture.</p>
+
+<p><img src="/images/posts/2025-03-06-GVCFDiffusion/mountain_range.png" alt="mountain" /></p>
+
+<h2 id="real-world-applications">Real-World Applications</h2>
+
+<p>These techniques can be applied to enhance other fusion-based methods for large image generation, benefiting applications such as:</p>
+
+<ul>
+  <li><strong>Panorama Generation:</strong> Creating wide-view landscapes with consistent style.</li>
+  <li><strong>High-Resolution Image Creation:</strong> Generating images with ultra-fine details.</li>
+  <li><strong>Mobile Applications:</strong> Efficient for on-device implementation.</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Our approach offers a solution for generating high-quality, large-content images without requiring extensive model training or resources. By addressing the core challenges of patch fusion and style consistency, we enable seamless and consistent results that can be applied across various industries.</p>]]></content><author><name>Shoukun Sun</name></author><category term="diffusion models" /><category term="text-to-image" /><summary type="html"><![CDATA[Generating large images, such as panoramas or 360-degree scenes, remains a significant challenge in the field of text-to-image synthesis. Our research introduces Guided and Variance-Corrected Fusion with Style Alignment, a novel approach to generating large images with seamless, consistent style.]]></summary></entry></feed>
