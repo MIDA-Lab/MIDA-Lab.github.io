@@ -6,3 +6,12 @@
   description: A web-based tool for labeling breast ultrasound images, facilitating the creation of datasets for deep learning applications in medical imaging.
   tags:
     - med-ai
+
+- title: BUSBench
+  subtitle: A Benchmark for Breast Ultrasound Image Classification
+  group: featured
+  image: images/projects/bus-bench.png
+  link: https://mida-lab.github.io/busbench
+  description: A comprehensive benchmark dataset for breast ultrasound image classification, designed to evaluate and improve deep learning models in medical imaging.
+  tags:
+    - med-ai
