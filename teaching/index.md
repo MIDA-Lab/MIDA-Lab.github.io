@@ -24,7 +24,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 # CS474/574: Deep Learning
 
 {% capture img %}
-  {% include figure.html image="images/dl_book_goodfellow.jpg" height="320px" %}
+  {% include figure.html image="images/teaching/dl_book_goodfellow.jpg" height="320px" %}
 {% endcapture %}
 {% include float.html content=img %}
 
@@ -45,7 +45,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 # CS 477/577: Python for Machine Learning
 
 {% capture img %}
-  {% include figure.html image="images/PML.jpg" width="320px" %}
+  {% include figure.html image="images/teaching/PML.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img flip=true %}
 
@@ -65,7 +65,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 # CS 4718/5718: Convex Optimization
 
 {% capture img %}
-  {% include figure.html image="images/bv_cvxbook_cover.jpg" width="320px" %}
+  {% include figure.html image="images/teaching/bv_cvxbook_cover.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img %}
 
@@ -86,7 +86,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 # CS 504: Digital Image Processing
 
 {% capture img %}
-  {% include figure.html image="images/dip_book.jpg" width="320px" %}
+  {% include figure.html image="images/teaching/dip_book.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img flip=true %}
 
@@ -107,7 +107,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 # CS 470/570: Artificial Intelligence
 
 {% capture img %}
-  {% include figure.html image="images/470-570.jpg" width="320px" %}
+  {% include figure.html image="images/teaching/470-570.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img %}
 
@@ -127,7 +127,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 # CS 472/572: Evolutionary Computation
 
 {% capture img %}
-  {% include figure.html image="images/472-572-1.jpg" width="320px" %}
+  {% include figure.html image="images/teaching/472-572.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img flip=true %}
 
@@ -146,7 +146,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 {% include section.html %}
 # CS 472/572: Machine Learning
 {% capture img %}
-  {% include figure.html image="images/ml.jpg" width="320px" %}
+  {% include figure.html image="images/teaching/ml.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img %}
 
@@ -166,7 +166,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 
 # CS 487/587: Adversarial Machine Learning
 {% capture img %}
-  {% include figure.html image="images/487-587.jpg" width="320px" %}
+  {% include figure.html image="images/teaching/487-587.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img flip=true %}
 
@@ -185,7 +185,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 {% include section.html %}
 # CS 488/588: Applied Data Science with Python
 {% capture img %}
-  {% include figure.html image="images/488-588.jpg" width="320px" %}
+  {% include figure.html image="images/teaching/488-588.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img %}
 
@@ -203,7 +203,7 @@ The University of Idaho offers **17** AI courses. MIDA Lab alone teaches **10** 
 {% include section.html %}
 # CS 404/504: Natural Language Processing
 {% capture img %}
-  {% include figure.html image="images/nlp.jpg" width="320px" %}
+  {% include figure.html image="images/teaching/nlp.jpg" width="320px" %}
 {% endcapture %}
 {% include float.html content=img  flip=true%}
 
