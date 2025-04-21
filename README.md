@@ -2,6 +2,65 @@
 
 Visit **[mida-lab.github.io](https://mida-lab.github.io)** 🚀
 
+For more details, please see the official documentation: [Lab Website Template Docs](https://greene-lab.gitbook.io/lab-website-template-doc).
+
+## Updating Website Content
+
+### Group Member Information
+
+To update group member information, follow these steps:
+
+1. **Create/Delete/Modify Member Files**:
+   - Member files are located in the `_members/` folder.
+   - Each file should be named as `[member name].md` (e.g., `"Matthew K. Roper.md"`).
+   - The format for member files is as follows:
+     ```yaml
+     ---
+     name: [Full Name]
+     image: images/members/[image-file-name]
+     role: [role]
+     aliases:
+         - [alias1]
+         - [alias2]
+     links:
+         home-page: [homepage URL]
+         email: [email address]
+     ---
+     ```
+     - `name` and `role` are required fields, while others are optional.
+     - Photos should be placed in the `images/members/` folder.
+     - `aliases`: This field is used to link names with publications or blogs. When a member has aliases, the built-in search will include both the full name and all aliases to provide accurate responses.
+
+2. **Add Roles**:
+   - To add new roles, edit the `_data/types.yaml` file.
+
+### Editing Pages
+
+To edit specific pages such as blog, contact, projects, research, teaching, or team:
+
+- Navigate to the corresponding folder (e.g., `blog/`, `contact/`, etc.) and edit the `index.md` file.
+
+### Managing Projects
+
+To add, edit, or delete projects:
+
+- Go to the `_data/projects.yaml` file.
+
+### Managing Blogs
+
+To manage blog posts:
+
+1. Create a new Markdown file in the `_posts/` folder. The file name should follow the format `YYYY-MM-DD-name.md`.
+2. Related images should be placed in the `images/posts/YYYY-MM-DD-name/` folder.
+3. When using images in the Markdown file, use absolute links such as:
+   ```
+   images/posts/YYYY-MM-DD-name/[image-file-name]
+   ```
+
+### Updating Citations
+
+This section is under construction.
+
 ## Development Process
 
 Our website is designed for easy development and deployment. Follow these steps to contribute:
