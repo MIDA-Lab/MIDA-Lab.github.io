@@ -1,6 +1,6 @@
 # MIDA-Lab's Website
 
-Visit **[mida-lab.github.io](https://mida-lab.github.io)** 🚀
+Visit **[midalab.net](http://midalab.net)** 🚀
 
 ## Development Process
 
